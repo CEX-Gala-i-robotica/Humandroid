@@ -3,9 +3,9 @@ import mediapipe as mp
 import time
 import pyrebase
 firebaseConfig={
-   "apiKey": "AIzaSyB9F0LUHUF5sE6fLOaL21M9_ZOU_JN508E",
-  "authDomain": "mana-7f65b.firebaseapp.com",
-  "databaseURL": "https://mana-7f65b-default-rtdb.firebaseio.com",
+   "apiKey": "****",
+  "authDomain": "***",
+  "databaseURL": "***",
   "projectId": "mana-7f65b",
   "storageBucket": "mana-7f65b.appspot.com",
   "messagingSenderId": "80786440933",
